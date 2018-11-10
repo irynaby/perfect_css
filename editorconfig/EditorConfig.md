@@ -7,7 +7,10 @@
 5. Select the .zip (the binary release, not the source, and do not unzip)
 6. Follow prompt to restart the IDE
 
-7. Put your .editorconfig file(s) in
+7. Put your .editorconfig file(s) in the project directory
+8. Make sure that the Enable EditorConfig Support checkbox is selected in Editor | Code Style.
+
+Usage: Code -> Reformat
 
 ---
 _PS:_ 
