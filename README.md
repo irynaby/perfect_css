@@ -1,1 +1,4 @@
-# perfect_css
+# Perfect CSS
+
+### Naming convention
+
