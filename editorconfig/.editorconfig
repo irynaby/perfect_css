@@ -1,0 +1,29 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+root = true
+
+[*]
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+indent_style = space
+
+# Use 2 spaces for indentation in HTML, SCSS, and CSS
+
+[*.{html,scss,css}]
+indent_size = 2
+
+# Use 4 spaces for indentation in Markdown files
+
+[*.md]
+indent_size = 4
+
+# Use 2 spaces for indentation in JS
+# [*.{js}]
+# indent_size = 2
+
+# Don't format mini JS и CSS files.
+[*.min.*]
+indent_style = ignore
+trim_trailing_whitespace = false
+insert_final_newline = ignore
