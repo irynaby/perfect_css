@@ -8,3 +8,7 @@
 6. Follow prompt to restart the IDE
 
 7. Put your .editorconfig file(s) in
+
+---
+_PS:_ 
+[EditorConfig — Одни Настройки для всех Редакторов/IDE](https://habr.com/post/220131/) [ru]
